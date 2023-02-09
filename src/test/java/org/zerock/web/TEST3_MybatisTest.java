@@ -37,6 +37,7 @@ public class TEST3_MybatisTest {
 		} catch (Exception e) {
 			// TODO: handle exception
 			e.printStackTrace();
+		} finally{ 
 		}
 	}
 	

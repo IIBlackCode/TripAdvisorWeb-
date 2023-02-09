@@ -34,6 +34,7 @@ public class TEST1_MariaDBConnectioncTest {
 		} catch (Exception e) {
 			// TODO: handle exception
 			e.printStackTrace();
+		} finally{ 
 		}
 	}
 }
